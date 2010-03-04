@@ -1,3 +1,14 @@
+This script takes one optional parameter on the command line (filename to write to)
+if ommited, we just print results to STDOUT.
+
+sample usage:
+
+    ./harvest.rb output.txt
+
+obviously it requires ruby.
+
+------------------------
+
 k, i know this is going to sounds, uhm, like deja vu, but just in case you have time....
 
 Would you mind writing a php script that harvest the data here:
