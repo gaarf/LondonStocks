@@ -1,0 +1,14 @@
+k, i know this is going to sounds, uhm, like deja vu, but just in case you have time....
+
+Would you mind writing a php script that harvest the data here:
+http://www.londonstockexchange.com/exchange/prices-and-news/stocks/prices-search/stock-prices-search.html?initial=A
+
+and build a list that has:
+Code\tName\tCur
+
+Idea is to go through each page and build the complete list since some letters have up to 80 pages...makes sense?
+so you would have to figure out that for URL I entered there are 83 pages, and go through each page (url becomes http://www.londonstockexchange.com/exchange/prices-and-news/stocks/prices-search/stock-prices-search.html?initial=A&page=2 etc...)
+
+Sounds easy for a guy like you :-)
+
+Please? Thanks?
